@@ -1,1 +1,3 @@
 text3 file from vs IDE
+
+this message from Github
